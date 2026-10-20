@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/parks_menu_item"
+        android:icon="@drawable/ic_park"
+        android:title="@string/parks_label" />
+
+    <item
+        android:id="@+id/campgrounds_menu_item"
+        android:icon="@drawable/ic_campground"
+        android:title="@string/campgrounds_label" />
+
+</menu>
